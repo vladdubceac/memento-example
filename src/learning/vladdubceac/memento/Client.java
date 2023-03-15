@@ -1,6 +1,6 @@
 package learning.vladdubceac.memento;
 
-public class Main {
+public class Client {
 
     public static void main(String[] args) {
     FileWriterCaretaker caretaker = new FileWriterCaretaker();
